@@ -1,0 +1,4 @@
+# model folder ignore
+.vscode
+.idea
+ros_based_sample_cpp/cmake-build-debug
